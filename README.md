@@ -130,7 +130,7 @@ Focused on experimentation, system design, and LangGraph agent workflows.
 
 <br/><br/>
 
-**SoundSpire** is an AI music platform with an asynchronous queue system enabling scalable, concurrent song generation.
+### **SoundSpire** is an AI music platform with an asynchronous queue system enabling scalable, concurrent song generation.
 
 <br/>
 
@@ -151,7 +151,7 @@ Focused on experimentation, system design, and LangGraph agent workflows.
 
 <br/><br/>
 
-**ResNet Audio Classifier** built from scratch in PyTorch, focusing on custom CNN architecture design, training, and optimization
+### **ResNet Audio Classifier** built from scratch in PyTorch, focusing on custom CNN architecture design, training, and optimization
 
 <br/>
 
