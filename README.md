@@ -24,7 +24,7 @@
 <br/><br/>
 
 Worked on multi-agent LLM orchestration, semantic search, dataset curation using VLMs, and evaluation of LLM monitoring frameworks.  
-Focused on experimentation, system design, and PyTorch-based deep learning workflows.
+Focused on experimentation, system design, and LangGraph agent workflows.
 
 </div>
 
